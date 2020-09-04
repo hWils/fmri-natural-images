@@ -9,10 +9,11 @@ Reconstruction, using VAE Gans different approaches
 
 ---
 ## Aim 
+To reconstruct perceived naturalistic images from fMRI data using a deep learning approach.
 Determine whether ...
 ----
-## Hypothesis
-decodability...
+## Stimuli
+The stimuli are naturalistic greyscale images. In each image there is a surrounding circular grey mask. The stimuli are 128 x 128 pixels. For the training dataset, 1750 images are used.
 
 ---
 ## Objectives
